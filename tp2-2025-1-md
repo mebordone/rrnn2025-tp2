@@ -1,0 +1,83 @@
+# REDES NEURONALES 2025
+
+```
+Trabajo Práctico 2: Clasificación de Fashion-MNIST con PyTorch
+```
+**Indicaciones para la entrega:**
+
+```
+a) El trabajo práctico debe enviarse por correo electrónico a las siguientes direcciones:
+```
+```
+francisco.tamarit@unc.edu.ar
+juan.perotti@unc.edu.ar
+tristan.osan@unc.edu.ar
+```
+```
+y también a las direcciones de correo electrónico de todos los integrantes del grupo.
+Es importante que tanto los docentes como todos los miembros del grupo reciban el correo de entrega.
+El asunto del correo debe ser:
+Redes Neuronales 2025 - entrega TP
+```
+```
+b) Solo se aceptan trabajos prácticos en formato.pdf. Opcionalmente, pueden adjuntar la notebook con los pro-
+gramas y simulaciones como archivo adicional.
+```
+```
+c) El nombre del archivo.pdf debe seguir la siguiente estructura:
+grupo-número_apellido1_apellido2_apellido3_TP2_RN_2025.pdf
+```
+```
+d) El informe no debe exceder las cuatro (4) páginas.
+```
+**Formato del informe:** Utilice como referencia la guía de prácticos Nº11 para redactar un informe detallado de los
+resultados obtenidos. El informe debe seguir la siguiente estructura:
+
+```
+a) Título : Escriba un título claro y conciso que represente el contenido del trabajo, por ejemplo: “Clasificación de
+Fashion-MNIST con una Red Neuronal Feedforward Multicapa en PyTorch”.
+```
+```
+b) Autores : Indique el nombre completo de todos los integrantes del grupo.
+```
+```
+c) Resumen : Redacte un párrafo breve (entre 5 y 10 líneas) que sintetice el objetivo del trabajo, la metodología
+empleada y los principales resultados obtenidos.
+```
+```
+d) Introducción : Presente el contexto general del trabajo. Explique brevemente qué es una red neuronal artificial
+feedforward multicapa y cómo puede utilizarse para clasificar datos. Cite bibliografía relevante y señale claramente
+el objetivo del informe.
+```
+```
+e) Teoría : Describa detalladamente los modelos de redes neuronales utilizados, incluyendo su estructura y los
+métodos de optimización aplicados. Además, explique los conjuntos de datos considerados, especificando el rol
+de los conjuntos de entrenamiento y validación.
+```
+```
+f) Resultados : Presente los resultados obtenidos mediante simulaciones y cálculos computacionales, acompañados
+de figuras y tablas explicativas. Para cada figura o tabla:
+```
+```
+Añada una leyenda que describa su contenido.
+Menciónela en el texto principal, describiendo los resultados observados.
+Incluya etiquetas en los ejes o columnas, especificando las unidades correspondientes.
+```
+```
+g) Discusión y conclusiones : Analice los resultados obtenidos. Indique si los modelos utilizados clasifican correc-
+tamente las imágenes del conjunto de datos. Proponga posibles mejoras para optimizar el rendimiento de los
+modelos y reflexione sobre las limitaciones del enfoque.
+```
+```
+h) Referencias : Incluya las citas y referencias bibliográficas utilizadas, especialmente en la introducción. Utilice
+un formato coherente y asegúrese de que todas las fuentes estén correctamente mencionadas.
+```
+```
+Puede encontrar un borrador con esta estructura en formato LaTeX en Overleaf:
+```
+```
+https://www.overleaf.com/read/qwctszcmgpkn#ed
+```
+## 1
+
+
