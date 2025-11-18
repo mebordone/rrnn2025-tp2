@@ -5,5 +5,6 @@ Matías Eduardo Bordone Carranza
 mebordone@unc.edu.ar
 FAMAFyC
 
-[Agregar otros autores del grupo]
-
+Jeanette Peralta
+jeanette.peralta@mi.unc.edu.ar
+FAMAFyC 
