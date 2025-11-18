@@ -26,7 +26,7 @@
 
 **Visualización:**
 
-![Comparación de Learning Rates](images/comparacion_learning_rates.png)
+![Comparación de Learning Rates](../images/comparacion_learning_rates.png)
 
 ---
 
@@ -53,7 +53,7 @@
 
 **Visualización:**
 
-![Comparación de Optimizadores](images/comparacion_optimizadores.png)
+![Comparación de Optimizadores](../images/comparacion_optimizadores.png)
 
 ---
 
@@ -85,7 +85,7 @@
 
 **Visualización:**
 
-![Comparación de Dropout](images/comparacion_dropout.png)
+![Comparación de Dropout](../images/comparacion_dropout.png)
 
 ---
 
@@ -117,7 +117,7 @@
 
 **Visualización:**
 
-![Comparación de Arquitecturas](images/comparacion_neuronas.png)
+![Comparación de Arquitecturas](../images/comparacion_neuronas.png)
 
 ---
 
@@ -149,7 +149,7 @@
 
 **Visualización:**
 
-![Comparación de Épocas](images/comparacion_epocas.png)
+![Comparación de Épocas](../images/comparacion_epocas.png)
 
 ---
 
@@ -181,7 +181,7 @@
 
 **Visualización:**
 
-![Comparación de Batch Size](images/comparacion_batch_size.png)
+![Comparación de Batch Size](../images/comparacion_batch_size.png)
 
 ---
 
@@ -288,11 +288,11 @@ Basándose en el análisis de hiperparámetros, se entrenó un modelo final con 
 
 **Curvas de Entrenamiento:**
 
-![Curvas de Entrenamiento Final](images/curvas_entrenamiento_final.png)
+![Curvas de Entrenamiento Final](../images/curvas_entrenamiento_final.png)
 
 **Matriz de Confusión:**
 
-![Matriz de Confusión Final](images/matriz_confusion_final.png)
+![Matriz de Confusión Final](../images/matriz_confusion_final.png)
 
 ### Conclusiones del Modelo Final
 

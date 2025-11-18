@@ -16,21 +16,21 @@ Se encontro una arquitectura balanceada en relacion a la cantidad de neuronas de
 
 
 Configuracion optima:
-•⁠  ⁠*Optimizador*: ADAM
-•⁠  ⁠*Learning Rate*: 0.001
-•⁠  ⁠*Arquitectura*: 256-128
-•⁠  ⁠*Batch Size*: 32
-•⁠  ⁠*Épocas*: 30
-•⁠  ⁠*Dropout*: 0.2
-•⁠  ⁠*Precisión final en validación*: 87.78%
+- *Optimizador*: ADAM
+- *Learning Rate*: 0.001
+- *Arquitectura*: 256-128
+- *Batch Size*: 32
+- *Épocas*: 30
+- *Dropout*: 0.2
+- *Precisión final en validación*: 87.78%
 
-![Curvas de Entrenamiento Final](images/curvas_entrenamiento_final.png)
+![Curvas de Entrenamiento Final](../images/curvas_entrenamiento_final.png)
 
 La implementacion con el optimizador Adam mejora significativamente la performance. En el modelo con la configuracion optima se puede observar que alcanza un rendimiento maximo en el conjunto de test/validacion a partir de la epoca 10, en el conjunto de train continua mejorando hasta la epoca 25, donde empieza a decaer la precision.
 
 Considerando los resultados obtenidos segun la matriz de confusion, se puede observar que la salida mas problematica para el modelo es la categoria Shirt.
 
-![Matriz de confusion de Entrenamiento Final](images/matriz_confusion_final.png)
+![Matriz de confusion de Entrenamiento Final](../images/matriz_confusion_final.png)
 
 Por ultimo, quisieramos mencionar que esta configuracion que es muy eficiente tiene un resultado muy similar al modelo final:
 

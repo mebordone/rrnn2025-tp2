@@ -136,7 +136,7 @@ Estructura base (clase `FashionMNIST_Net`):
 
 **¿Qué es?**
 - Cantidad de neuronas en cada capa oculta de la red.
-- En nuestro caso: primera capa oculta (n₁) y segunda capa oculta (n₂).
+- En nuestro caso: primera capa oculta (n1) y segunda capa oculta (n2).
 
 **Capacidad del modelo:**
 - **Más neuronas**: Más capacidad, puede aprender patrones más complejos, pero más riesgo de overfitting y más lento.
